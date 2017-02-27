@@ -1460,6 +1460,10 @@
 					width: 48px;
 				}
 
+				ul.social li a.fa-envelope {
+					background-color: #FAFAFA;
+				}
+
 				ul.social li a.fa-twitter {
 					background-color: #2DAAE4;
 				}
@@ -2033,10 +2037,6 @@
 					ul.social li a {
 						top: 0 !important;
 					}
-
-						ul.social li a:before {
-							background-color: transparent !important;
-						}
 
 			ul.actions {
 				margin: 0;
